@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5EuMK09g3EFuLG8bg2oJ40tg5gW5t3DuzE+onyQ31vbxwHXFX5pMRTm8EZr/o8mgAYWZbJwH6RjsY/SuOTnmpw==",
+  "dgSpecHash": "QTn9MljFpG6Vd9djigfa72o16tFsPu5CJs/l9z8GXhCxiW8+4irxi8VNDy0mah9ZyJzs0qLJzk2/kKqpb/enoA==",
   "success": true,
-  "projectFilePath": "D:\\.NetCore\\FizzBuzz.Tests\\FizzBuzz.Tests.csproj",
+  "projectFilePath": "D:\\.NetCore\\Project\\FizzBuzz.Tests\\FizzBuzz.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phani\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\phani\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",

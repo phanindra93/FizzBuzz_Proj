@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NetCore\\FizzBuzz.Tests\\FizzBuzz.Tests.csproj": {}
+    "D:\\.NetCore\\Project\\FizzBuzz.Tests\\FizzBuzz.Tests.csproj": {}
   },
   "projects": {
-    "D:\\.NetCore\\FizzBuzz.Tests\\FizzBuzz.Tests.csproj": {
+    "D:\\.NetCore\\Project\\FizzBuzz.Tests\\FizzBuzz.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NetCore\\FizzBuzz.Tests\\FizzBuzz.Tests.csproj",
+        "projectUniqueName": "D:\\.NetCore\\Project\\FizzBuzz.Tests\\FizzBuzz.Tests.csproj",
         "projectName": "FizzBuzz.Tests",
-        "projectPath": "D:\\.NetCore\\FizzBuzz.Tests\\FizzBuzz.Tests.csproj",
+        "projectPath": "D:\\.NetCore\\Project\\FizzBuzz.Tests\\FizzBuzz.Tests.csproj",
         "packagesPath": "C:\\Users\\phani\\.nuget\\packages\\",
-        "outputPath": "D:\\.NetCore\\FizzBuzz.Tests\\obj\\",
+        "outputPath": "D:\\.NetCore\\Project\\FizzBuzz.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\phani\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\.NetCore\\FizzBuzz3\\FizzBuzz3.csproj": {
-                "projectPath": "D:\\.NetCore\\FizzBuzz3\\FizzBuzz3.csproj"
+              "D:\\.NetCore\\Project\\FizzBuzz3\\FizzBuzz3.csproj": {
+                "projectPath": "D:\\.NetCore\\Project\\FizzBuzz3\\FizzBuzz3.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "D:\\.NetCore\\FizzBuzz3\\FizzBuzz3.csproj": {
+    "D:\\.NetCore\\Project\\FizzBuzz3\\FizzBuzz3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NetCore\\FizzBuzz3\\FizzBuzz3.csproj",
+        "projectUniqueName": "D:\\.NetCore\\Project\\FizzBuzz3\\FizzBuzz3.csproj",
         "projectName": "FizzBuzz3",
-        "projectPath": "D:\\.NetCore\\FizzBuzz3\\FizzBuzz3.csproj",
+        "projectPath": "D:\\.NetCore\\Project\\FizzBuzz3\\FizzBuzz3.csproj",
         "packagesPath": "C:\\Users\\phani\\.nuget\\packages\\",
-        "outputPath": "D:\\.NetCore\\FizzBuzz3\\obj\\",
+        "outputPath": "D:\\.NetCore\\Project\\FizzBuzz3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\phani\\AppData\\Roaming\\NuGet\\NuGet.Config",
